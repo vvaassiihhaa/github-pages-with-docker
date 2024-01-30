@@ -4,8 +4,11 @@ title:  "Welcome to Jekyll!"
 date:   2024-01-30 19:00:56 +0000
 categories: jekyll update
 ---
+# [Это папа ( автор )](https://billraymond.github.io/github-pages-with-docker/)
 
-https://hisava.github.io/
+[Bill Raymond инструкция о том как сделать такой же сайт как этот](https://gist.github.com/BillRaymond/db761d6b53dc4a237b095819d33c7332)
+
+[hisava.github.io](https://hisava.github.io/)
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
