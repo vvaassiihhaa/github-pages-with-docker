@@ -1,18 +1,11 @@
 ---
 layout: page
-title: About
+title: "где я"
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Пока вы читаете это сообщение, ваши данные на диске C:\ шифруются
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Мы надеемся, что у вас там не было ничего полезного
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Даже если и было - кому теперь какая разница ?
